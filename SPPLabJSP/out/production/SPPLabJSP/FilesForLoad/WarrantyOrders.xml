@@ -1,0 +1,38 @@
+ <?xml version="1.0" encoding="UTF-8" ?> 
+ <WarrantyOrders>
+	<WarrantyOrder>
+		<OrderNo>658</OrderNo>
+		<Vehicle>
+			<VehicleBrand>Tesla</VehicleBrand>
+			<VehicleModel>Model S</VehicleModel>
+		</Vehicle>
+		<Employee>
+			<EmployeeName>Иванов С.Л.</EmployeeName>
+			<EmployeePosition>Слесарь</EmployeePosition>
+		</Employee>
+	</WarrantyOrder>
+	
+	<WarrantyOrder>
+		<OrderNo>125</OrderNo>
+		<Vehicle>
+			<VehicleBrand>Renault</VehicleBrand>
+			<VehicleModel>Logan</VehicleModel>
+		</Vehicle>
+		<Employee>
+			<EmployeeName>Касьянов В.П.</EmployeeName>
+			<EmployeePosition>Инженер - электроник</EmployeePosition>
+		</Employee>
+	</WarrantyOrder>
+	
+	<WarrantyOrder>
+		<OrderNo>459</OrderNo>
+		<Vehicle>
+			<VehicleBrand>Lada</VehicleBrand>
+			<VehicleModel>21047</VehicleModel>
+		</Vehicle>
+		<Employee>
+			<EmployeeName>Пистонов А.С.</EmployeeName>
+			<EmployeePosition>Моторист</EmployeePosition>
+		</Employee>
+	</WarrantyOrder>
+ </WarrantyOrders>
